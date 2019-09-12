@@ -1,0 +1,76 @@
+body {
+
+font-family: Tahoma, Arial, sans-serif;
+
+color: black;
+
+background-color: pink;
+
+padding: 10px 30px;
+
+}
+
+table {
+
+margin-top: 20px;
+
+}
+
+table tr {
+	text-align: center;
+}
+
+table tbody tr td, table thead tr th {
+	padding: 15px;
+	vertical-align: center;
+	border: 1.5px solid black
+}
+
+table thead tr th {
+	border-color: black;
+}
+
+p, h4 {
+
+font-size: 20px;
+
+margin-bottom: 0;
+
+}
+
+span {
+	font-size: 20px;
+}
+
+h4 {
+
+font-size: 14px;
+
+}
+
+ul, ol {
+
+margin: 0;
+font-size: 20px;
+
+}
+
+table tr td {
+
+padding: 5px;
+
+}
+
+table {
+
+width: 100%;
+
+}
+
+img {
+
+height: 30px;
+
+width: auto;
+
+}
